@@ -1,0 +1,8 @@
+Operadores Lógicos
+
+==		Igual
+!=		Diferente
+<		Menor
+>		Maior
+<=		Menor ou Igual
+>=		Maior ou Igual
