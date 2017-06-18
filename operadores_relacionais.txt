@@ -1,0 +1,5 @@
+Operadores Relacionais
+
+&&		E   (AND)
+||		OU  (OR)
+!		NÃO (NOT)
